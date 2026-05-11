@@ -10,9 +10,21 @@ Customer segmentation helps businesses:
 - Increase customer retention
 - Build personalized recommendations
 
----
 
-# 🚀 Technologies Used
+# 👥 Customer Segments
+
+The model groups customers into different categories based on purchasing behavior.
+
+| Segment | Description |
+|---|---|
+| Premium Customers | Customers who purchase frequently and spend a lot of money |
+| Regular Customers | Customers with normal purchasing behavior |
+| Inactive Customers | Customers who rarely purchase products |
+| High Spending Customers | Customers who spend large amounts of money |
+| Low Spending Customers | Customers with low overall spending |
+These customer segments help businesses improve marketing strategies and customer engagement.
+
+# Technologies Used
 - Python
 - Pandas
 - NumPy
@@ -35,7 +47,7 @@ Main features used:
 
 ---
 
-# 🧠 Machine Learning Technique
+# Machine Learning Technique
 ## K-Means Clustering
 K-Means is an unsupervised machine learning algorithm used to divide customers into groups based on similar behavior.
 
